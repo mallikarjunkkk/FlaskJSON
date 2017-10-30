@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER Mallikarjun
+MAINTAINER Qpair
 
 RUN apt-get update -y
 
