@@ -7,9 +7,9 @@ app = FlaskAPI(__name__)
 
 
 notes = {
-    0: 'do the shopping',
-    1: 'build the codez',
-    2: 'paint the door',
+    0: 'Test1',
+    1: 'Test2',
+    2: 'Test3',
 }
 
 def note_repr(key):
